@@ -81,7 +81,7 @@ curl -i -H "Authorization: Bearer myToken" 127.0.0.1:5000/services/123456789
 
 ## Using FeatureFlags
 
-To use feature flags, check out the documentation in (the README of)
+To use fsdfsdfeature flags, check out the documentation in (the README of)
 [digitalmarketplace-utils](https://github.com/alphagov/digitalmarketplace-utils#using-featureflags).
 
 
